@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: johncms\n"
+"POT-Creation-Date: 2017-07-30 15:43+0400\n"
+"PO-Revision-Date: 2017-07-30 08:08-0400\n"
+"Last-Translator: mobiCMS <dev@mobicms.net>\n"
+"Language-Team: Romanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"Language: ro_RO\n"
+"X-Poedit-KeywordsList: _t;_p:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Crowdin-Project: johncms\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /modules/library/default.pot\n"
+
+#: classes/Hashtags.php:251 includes/lastcom.php:45 includes/tags.php:67
+#: includes/top.php:51 index.php:236 index.php:294 index.php:348
+msgid "The list is empty"
+msgstr "Lista este goală"
+
+#: classes/Rating.php:138
+msgid "Vote"
+msgstr "Voteaza"
+
+#: classes/Tree.php:194 includes/addnew.php:182 includes/comments.php:49
+#: includes/del.php:29 includes/lastcom.php:22 includes/mkdir.php:56
+#: includes/moder.php:124 includes/new.php:28 includes/premod.php:27
+#: includes/search.php:36 includes/search.php:62 includes/tagcloud.php:21
+#: includes/tags.php:36 includes/top.php:38 index.php:89 index.php:186
+#: index.php:391
+msgid "Library"
+msgstr "Librarie"
+
+#: includes/addnew.php:36
+#, php-format
+msgid "You cannot add the Article so often<br>Please, wait %d sec."
+msgstr "Nu puteţi adăuga un articol atât de des<br>Vă rog, aşteptaţi %d sec."
+
+#: includes/addnew.php:37 includes/addnew.php:201 includes/del.php:60
+#: includes/del.php:84 includes/del.php:97 includes/del.php:142
+#: includes/del.php:153 includes/lastcom.php:48 includes/mkdir.php:70
+#: includes/moder.php:109 includes/moder.php:194 includes/top.php:118
+msgid "Back"
+msgstr "Înapoi"
+
+#: includes/addnew.php:51 includes/mkdir.php:28
+msgid "You have not entered the name"
+msgstr "Nu ati introdus numele"
+
+#: includes/addnew.php:66
+msgid "The file is invalid encoding, preferably UTF-8"
+msgstr "Fişierul este codificat invalid, preferabil UTF-8"
+
+#: includes/addnew.php:66 includes/addnew.php:74 includes/addnew.php:79
+#: includes/addnew.php:157 includes/mkdir.php:29 includes/mkdir.php:44
+msgid "Repeat"
+msgstr "Repetă"
+
+#: includes/addnew.php:74
+msgid "Error uploading"
+msgstr "Eroare de încărcare"
+
+#: includes/addnew.php:79
+msgid "Invalid file format allowed * .txt"
+msgstr "Format de fişier nevalid permis * .txt"
+
+#: includes/addnew.php:86
+msgid "You have not entered text"
+msgstr "Nu ai introdus nici un text"
+
+#: includes/addnew.php:157 includes/moder.php:100
+msgid "Photo uploading error"
+msgstr "Incarcare poza esuata"
+
+#: includes/addnew.php:171
+msgid "Article added"
+msgstr "Articol adaugat"
+
+#: includes/addnew.php:171
+msgid "Thank you for what we have written. After checking moderated, your Article will be published in the library."
+msgstr "Multumim pentru ce ai scris. Dupa ce va fi verificat de in moderator, Articolul va fi publicat in Librarie."
+
+#: includes/addnew.php:173
+msgid "To Article"
+msgstr "La articol"
+
+#: includes/addnew.php:173 includes/mkdir.php:53
+msgid "To Section"
+msgstr "La sectiune"
+
+#: includes/addnew.php:182 index.php:355
+msgid "Write Article"
+msgstr "Scrie articol"
+
+#: includes/addnew.php:185 includes/mkdir.php:59 includes/moder.php:135
+msgid "Title"
+msgstr "Titlu"
+
+#: includes/addnew.php:187 includes/moder.php:140
+msgid "Announce"
+msgstr "Anunt"
+
+#: includes/addnew.php:189 includes/moder.php:144
+msgid "Text"
+msgstr "Text"
+
+#: includes/addnew.php:192 includes/moder.php:187
+msgid "Commenting on the Article"
+msgstr "Comenteaza in articol"
+
+#: includes/addnew.php:193 includes/moder.php:133
+msgid "To upload a photo"
+msgstr "De a incarca o poza"
+
+#: includes/addnew.php:195
+msgid "Select the text file"
+msgstr "Selecteaza textul fisierului"
+
+#: includes/addnew.php:196
+msgid "Text entry field will be ignored"
+msgstr "Câmpul de introducere a textului va fi ignorat"
+
+#: includes/addnew.php:197 includes/comments.php:54 includes/moder.php:151
+#: includes/new.php:62 includes/tags.php:36 includes/tags.php:54
+#: includes/top.php:89
+msgid "Tags"
+msgstr "Taguri"
+
+#: includes/addnew.php:198
+msgid "Specify the Tag to the Article, separated by commas"
+msgstr "Specifica taguri la articol, separate prin virgula"
+
+#: includes/addnew.php:199 includes/mkdir.php:68 includes/moder.php:192
+msgid "Save"
+msgstr "Salveaza"
+
+#: includes/comments.php:29 includes/comments.php:41 index.php:98
+msgid "Access forbidden"
+msgstr "Acess interzis"
+
+#: includes/comments.php:55 includes/lastcom.php:41 includes/new.php:65
+#: includes/premod.php:59 includes/search.php:102 includes/tags.php:52
+#: includes/top.php:92 index.php:337 index.php:420
+msgid "Who added"
+msgstr "Cine a adaugat"
+
+#: includes/comments.php:56 includes/moder.php:189 includes/new.php:75
+#: includes/search.php:104 includes/tags.php:53 includes/top.php:102
+#: index.php:430
+msgid "Number of readings"
+msgstr "Numarul de citiri"
+
+#: includes/comments.php:77 includes/new.php:81 includes/new.php:83
+#: includes/tags.php:55 includes/top.php:108 includes/top.php:110 index.php:436
+#: index.php:439
+msgid "Comments"
+msgstr "Comentarii"
+
+#: includes/comments.php:88
+msgid "Wrong data"
+msgstr "Date gresite"
+
+#: includes/del.php:29 includes/del.php:90 includes/del.php:115
+#: includes/del.php:126 includes/del.php:132 includes/premod.php:61
+#: index.php:230 index.php:288 index.php:302 index.php:357 index.php:479
+msgid "Delete"
+msgstr "Șterge"
+
+#: includes/del.php:41
+msgid "Section does not exist"
+msgstr "Sectiunea nu exista"
+
+#: includes/del.php:48
+msgid "Are you sure you want to move the contents?"
+msgstr "Esti sigur ca vrei sa muti continutul?"
+
+#: includes/del.php:48
+msgid "Move"
+msgstr "Muta"
+
+#: includes/del.php:48 includes/del.php:90 includes/del.php:115
+#: includes/del.php:126 includes/del.php:132
+msgid "Cancel"
+msgstr "Anuleaza"
+
+#: includes/del.php:60
+msgid "Successful transfer"
+msgstr "Transfer cu sucess"
+
+#: includes/del.php:72 includes/moder.php:155
+msgid "Move to Section"
+msgstr "Muta la sectiunea"
+
+#: includes/del.php:80 includes/premod.php:61
+msgid "Approve"
+msgstr "Aproba"
+
+#: includes/del.php:84
+msgid "There are no Sections for moving"
+msgstr "Nu sunt sectiuni de mutat"
+
+#: includes/del.php:90
+msgid "Are you sure you want to delete content?"
+msgstr "Esti sigur ca vrei sa stergi continutul?"
+
+#: includes/del.php:94
+#, php-format
+msgid "Successfully deleted:<br>Directories: (%d)<br>Articles: (%d)<br>Tags: (%d)<br>Comments: (%d)<br>Images: (%d)"
+msgstr "Sters cu success:<br>Directoare: (%d)<br>Articole: (%d)<br>Taguri: (%d)<br>Comentarii: (%d)<br>Imagini: (%d)"
+
+#: includes/del.php:102
+msgid "Section is not empty"
+msgstr "Sectiunea nu este goala"
+
+#: includes/del.php:103
+msgid "Select action"
+msgstr "Selecteaza actiune"
+
+#: includes/del.php:105
+msgid "Delete with movement"
+msgstr "Șterge cu mișcare"
+
+#: includes/del.php:106
+msgid "Delete all Sections and Articles"
+msgstr "Sterge toate sectiune su articolele"
+
+#: includes/del.php:107
+msgid "Do"
+msgstr "Fă"
+
+#: includes/del.php:115 includes/del.php:126 includes/del.php:132
+msgid "Delete confirmation"
+msgstr "Sterge confirmare"
+
+#: includes/del.php:122
+msgid "Articles do not exist"
+msgstr "Articolul nu exista"
+
+#: includes/del.php:142 includes/del.php:153
+msgid "Deleted"
+msgstr "Sters"
+
+#: includes/download.php:55
+msgid "Author name"
+msgstr "Numele autorului"
+
+#: includes/download.php:56
+msgid "Author last name"
+msgstr "Prenumele autorului"
+
+#: includes/download.php:58
+msgid "Name of the book"
+msgstr "Numele cartii"
+
+#: includes/download.php:60
+msgid "Date"
+msgstr "Data"
+
+#: includes/lastcom.php:22 index.php:206
+msgid "Latest comments"
+msgstr "Ultimele comentarii"
+
+#: includes/mkdir.php:43
+msgid "This name already exists"
+msgstr "Acest nume există deja"
+
+#: includes/mkdir.php:53
+msgid "Section created"
+msgstr "Sectiune creeata"
+
+#: includes/mkdir.php:56 index.php:242
+msgid "Create Section"
+msgstr "Creeaza sectiune"
+
+#: includes/mkdir.php:61 includes/moder.php:137
+msgid "Section description"
+msgstr "Descriere sectiune"
+
+#: includes/mkdir.php:63 includes/moder.php:175
+msgid "Section type"
+msgstr "Tipul sectiunii"
+
+#: includes/mkdir.php:65 includes/moder.php:178 index.php:277
+msgid "Sections"
+msgstr "Sectiuni"
+
+#: includes/mkdir.php:66 includes/moder.php:179 index.php:277
+msgid "Articles"
+msgstr "Articole"
+
+#: includes/moder.php:109
+msgid "Changed"
+msgstr "Schimbat"
+
+#: includes/moder.php:125
+msgid "Edit Section"
+msgstr "Editeaza sectiune"
+
+#: includes/moder.php:125
+msgid "Edit Article"
+msgstr "Editeaza articol"
+
+#: includes/moder.php:148
+msgid "The text of the Article can not be edited, a large amount of data !!!"
+msgstr "Textul articolului nu poate fi editat, o cantitate prea mare de date !!!"
+
+#: includes/moder.php:161
+msgid "The ROOT"
+msgstr "Rădăcină"
+
+#: includes/moder.php:181
+msgid "Allow users to add their Articles?"
+msgstr "Permite utilozatorilor sa adauge articole?"
+
+#: includes/moder.php:182
+msgid "Yes"
+msgstr "Da"
+
+#: includes/moder.php:183
+msgid "No"
+msgstr "Nu"
+
+#: includes/moder.php:185
+msgid "Verified"
+msgstr "Verificat"
+
+#: includes/new.php:28 index.php:202
+msgid "New Articles"
+msgstr "Articole noi"
+
+#: includes/new.php:58 includes/top.php:85
+msgid "Section"
+msgstr "Sectiune"
+
+#: includes/new.php:70 includes/top.php:97 index.php:342 index.php:425
+msgid "Rating"
+msgstr "Voturi"
+
+#: includes/new.php:83 includes/top.php:110 index.php:440
+msgid "Comments are closed"
+msgstr "Comentariile sunt inchise"
+
+#: includes/new.php:90 includes/premod.php:66 includes/search.php:112
+#: includes/tags.php:60 index.php:239 index.php:297 index.php:351
+msgid "Total"
+msgstr "Total"
+
+#: includes/new.php:92 includes/premod.php:69 includes/search.php:130
+#: includes/tagcloud.php:24 includes/tags.php:65 includes/tags.php:68
+msgid "To Library"
+msgstr "La librarie"
+
+#: includes/premod.php:27
+msgid "Moderation Articles"
+msgstr "Articole de moderat"
+
+#: includes/premod.php:32
+msgid "Article"
+msgstr "Articol"
+
+#: includes/premod.php:32
+msgid "Added to the database"
+msgstr "Adaugat in baza de date"
+
+#: includes/premod.php:35
+msgid "All Articles added in database"
+msgstr "Toate articolele adaugate in baza de date"
+
+#: includes/premod.php:68
+msgid "Approve all"
+msgstr "Aproba toate"
+
+#: includes/search.php:36 includes/search.php:39 index.php:187
+msgid "Search"
+msgstr "Cauta"
+
+#: includes/search.php:40
+msgid "Search in titles Articles"
+msgstr "Cauta in titlul articolului"
+
+#: includes/search.php:47 includes/search.php:126
+msgid "Length of query: 4 min 64 max<br>Search is case-insensitive letters<br>Results are sorted by relevance"
+msgstr "Lungimea cautarii: 4 min. 64 max.<br>Rezultatele sunt sortate dupa relevanta "
+
+#: includes/search.php:62
+msgid "Search results"
+msgstr "Rezultatele cautarii"
+
+#: includes/search.php:109
+msgid "Your search did not match any results"
+msgstr "Cautarea nu corespunde cu nici in rezultat"
+
+#: includes/search.php:118
+msgid "To Page"
+msgstr "La pagina"
+
+#: includes/search.php:129
+msgid "New Search"
+msgstr "Cautare noua"
+
+#: includes/tagcloud.php:17
+msgid "Sorted by alphabetical"
+msgstr "In ordine alfabetica"
+
+#: includes/tagcloud.php:18
+msgid "Sorted by relevance"
+msgstr "Sortare după relevanță"
+
+#: includes/tagcloud.php:21 index.php:187
+msgid "Tag Cloud"
+msgstr "Tag Cloud"
+
+#: includes/tagcloud.php:22 includes/top.php:39
+msgid "Sort"
+msgstr "Sorteaza"
+
+#: includes/top.php:33
+msgid "Most readings"
+msgstr "Cele mai citite"
+
+#: includes/top.php:34
+msgid "By rating"
+msgstr "Dupa voturi"
+
+#: includes/top.php:35
+msgid "By comments"
+msgstr "Dupa comentarii"
+
+#: includes/top.php:38 index.php:205
+msgid "Rating articles"
+msgstr "Voteaza articole"
+
+#: index.php:96 index.php:161
+msgid "Library is closed"
+msgstr "Libraria este inchisa"
+
+#: index.php:195
+msgid "On moderation"
+msgstr "Pentru moderare"
+
+#: index.php:227 index.php:282 index.php:283
+msgid "Up"
+msgstr "Sus"
+
+#: index.php:228 index.php:285 index.php:286
+msgid "Down"
+msgstr "Jos"
+
+#: index.php:229 index.php:287 index.php:301 index.php:356 index.php:478
+msgid "Edit"
+msgstr "Editeaza"
+
+#: index.php:303
+msgid "Create"
+msgstr "Creeaza"
+
+#: index.php:332 index.php:415
+msgid "The Tags"
+msgstr "Taguri"
+
+#: index.php:472
+msgid "Download file"
+msgstr "Descarca fisier"
+

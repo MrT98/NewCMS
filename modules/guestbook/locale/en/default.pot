@@ -1,0 +1,166 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mobiCMS\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: https://crowdin.com/project/johncms <translate@mobicms.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: _t;_p:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:61 index.php:342
+msgid "Admin Club"
+msgstr ""
+
+#: index.php:61 index.php:80 index.php:208 index.php:263 index.php:304
+#: index.php:307 index.php:337 index.php:341
+msgid "Guestbook"
+msgstr ""
+
+#: index.php:66
+msgid "Guestbook is closed"
+msgstr ""
+
+#: index.php:80
+msgid "Delete message"
+msgstr ""
+
+#: index.php:81
+msgid "Do you really want to delete?"
+msgstr ""
+
+#: index.php:82 index.php:452
+msgid "Delete"
+msgstr ""
+
+#: index.php:83 index.php:316
+msgid "Cancel"
+msgstr ""
+
+#: index.php:102
+msgid "Wrong data"
+msgstr ""
+
+#: index.php:106
+msgid "You have not entered a name"
+msgstr ""
+
+#: index.php:110
+msgid "You have not entered the message"
+msgstr ""
+
+#: index.php:114
+msgid "Access forbidden"
+msgstr ""
+
+#: index.php:121
+msgid "The security code is not correct"
+msgstr ""
+
+#: index.php:140
+#, php-format
+msgid "You cannot add the message so often. Please, wait %d seconds."
+msgstr ""
+
+#: index.php:185 index.php:223 index.php:272
+msgid "Back"
+msgstr ""
+
+#: index.php:208 index.php:218 index.php:220 index.php:451
+msgid "Reply"
+msgstr ""
+
+#: index.php:263 index.php:452
+msgid "Edit"
+msgstr ""
+
+#: index.php:266
+msgid "Author"
+msgstr ""
+
+#: index.php:269
+msgid "Save"
+msgstr ""
+
+#: index.php:289
+msgid "All messages older than 1 day were deleted"
+msgstr ""
+
+#: index.php:295
+msgid "Full clearing is finished"
+msgstr ""
+
+#: index.php:300
+msgid "All messages older than 1 week were deleted"
+msgstr ""
+
+#: index.php:307 index.php:314 index.php:343
+msgid "Clear"
+msgstr ""
+
+#: index.php:310
+msgid "Clearing parameters"
+msgstr ""
+
+#: index.php:311
+msgid "Older than 1 week"
+msgstr ""
+
+#: index.php:312
+msgid "Older than 1 day"
+msgstr ""
+
+#: index.php:313
+msgid "Clear all"
+msgstr ""
+
+#: index.php:334
+msgid "The guestbook is closed"
+msgstr ""
+
+#: index.php:355
+msgid "Name"
+msgstr ""
+
+#: index.php:358
+msgid "Message"
+msgstr ""
+
+#: index.php:368
+msgid "Verification code"
+msgstr ""
+
+#: index.php:369
+msgid "Symbols on the picture"
+msgstr ""
+
+#: index.php:372
+msgid "Send"
+msgstr ""
+
+#: index.php:374
+msgid "For registered users only"
+msgstr ""
+
+#: index.php:378
+msgid "Comments"
+msgstr ""
+
+#: index.php:467
+msgid "The guestbook is empty.<br><strong>Be the first! :)</strong>"
+msgstr ""
+
+#: index.php:470
+msgid "Total"
+msgstr ""
+
+#: index.php:475
+msgid "To Page"
+msgstr ""

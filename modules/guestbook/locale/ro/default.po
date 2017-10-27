@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: johncms\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-07-30 08:08-0400\n"
+"Last-Translator: mobiCMS <dev@mobicms.net>\n"
+"Language-Team: Romanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: _t;_p:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: johncms\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /modules/guestbook/default.pot\n"
+"Language: ro_RO\n"
+
+#: index.php:61 index.php:342
+msgid "Admin Club"
+msgstr "Club-Admin"
+
+#: index.php:61 index.php:80 index.php:208 index.php:263 index.php:304
+#: index.php:307 index.php:337 index.php:341
+msgid "Guestbook"
+msgstr "Guestbook"
+
+#: index.php:66
+msgid "Guestbook is closed"
+msgstr "Guestbook este închis"
+
+#: index.php:80
+msgid "Delete message"
+msgstr "Şterge mesajul"
+
+#: index.php:81
+msgid "Do you really want to delete?"
+msgstr "Doriţi într-adevăr să ştergeţi?"
+
+#: index.php:82 index.php:452
+msgid "Delete"
+msgstr "Șterge"
+
+#: index.php:83 index.php:316
+msgid "Cancel"
+msgstr "Anuleaza"
+
+#: index.php:102
+msgid "Wrong data"
+msgstr "Date invalide"
+
+#: index.php:106
+msgid "You have not entered a name"
+msgstr "Nu ați introdus un nume"
+
+#: index.php:110
+msgid "You have not entered the message"
+msgstr "Nu ați introdus mesajul"
+
+#: index.php:114
+msgid "Access forbidden"
+msgstr "Acces interzis"
+
+#: index.php:121
+msgid "The security code is not correct"
+msgstr "Codul de securitate este incorect"
+
+#: index.php:140
+#, php-format
+msgid "You cannot add the message so often. Please, wait %d seconds."
+msgstr "Nu poti adauga in mesaj asa de des. Te rog asteapta, %d secunde"
+
+#: index.php:185 index.php:223 index.php:272
+msgid "Back"
+msgstr "Înapoi"
+
+#: index.php:208 index.php:218 index.php:220 index.php:451
+msgid "Reply"
+msgstr "Raspunde"
+
+#: index.php:263 index.php:452
+msgid "Edit"
+msgstr "Editeaza"
+
+#: index.php:266
+msgid "Author"
+msgstr "Autor"
+
+#: index.php:269
+msgid "Save"
+msgstr "Salveaza"
+
+#: index.php:289
+msgid "All messages older than 1 day were deleted"
+msgstr "Toate mesajele mai vechi de o zi au fost sterse"
+
+#: index.php:295
+msgid "Full clearing is finished"
+msgstr "Stergere totala finalizata"
+
+#: index.php:300
+msgid "All messages older than 1 week were deleted"
+msgstr "Toate mesajele mai vechi de o saptamana au fost sterse"
+
+#: index.php:307 index.php:314 index.php:343
+msgid "Clear"
+msgstr "Sterge"
+
+#: index.php:310
+msgid "Clearing parameters"
+msgstr "Sterge parametri"
+
+#: index.php:311
+msgid "Older than 1 week"
+msgstr "Mai vechi de o saptamana"
+
+#: index.php:312
+msgid "Older than 1 day"
+msgstr "Mai vechi de o zi"
+
+#: index.php:313
+msgid "Clear all"
+msgstr "Sterge tot"
+
+#: index.php:334
+msgid "The guestbook is closed"
+msgstr "Guestbook este închis"
+
+#: index.php:355
+msgid "Name"
+msgstr "Nume"
+
+#: index.php:358
+msgid "Message"
+msgstr "Mesaj"
+
+#: index.php:368
+msgid "Verification code"
+msgstr "Codul de verificare"
+
+#: index.php:369
+msgid "Symbols on the picture"
+msgstr "Simbolurile din imagine"
+
+#: index.php:372
+msgid "Send"
+msgstr "Trimite"
+
+#: index.php:374
+msgid "For registered users only"
+msgstr "Doar pentru utilizatori inregistrati"
+
+#: index.php:378
+msgid "Comments"
+msgstr "Comentarii"
+
+#: index.php:467
+msgid "The guestbook is empty.<br><strong>Be the first! :)</strong>"
+msgstr "Nici un mesaj .<br><strong>\n"
+"Fii primul care scrie! :)</strong>"
+
+#: index.php:470
+msgid "Total"
+msgstr "Total"
+
+#: index.php:475
+msgid "To Page"
+msgstr "La Pagina"
+

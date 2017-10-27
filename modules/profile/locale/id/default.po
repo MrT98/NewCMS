@@ -1,0 +1,784 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: johncms\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-07-30 08:08-0400\n"
+"Last-Translator: mobiCMS <dev@mobicms.net>\n"
+"Language-Team: Indonesian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: _t;_p:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: johncms\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /modules/profile/default.pot\n"
+"Language: id_ID\n"
+
+#: includes/activity.php:14 includes/activity.php:35 includes/stat.php:52
+#: index.php:164
+msgid "Activity"
+msgstr "Aktivitas"
+
+#: includes/activity.php:35 includes/ban.php:182 includes/ban.php:281
+#: includes/edit.php:54 includes/guestbook.php:13 includes/guestbook.php:28
+#: includes/images.php:40 includes/images.php:81 includes/info.php:25
+#: includes/office.php:46 includes/password.php:101 includes/reset.php:31
+#: includes/stat.php:28 index.php:114
+msgid "Profile"
+msgstr "Profil"
+
+#: includes/activity.php:37 includes/activity.php:107
+msgid "Messages"
+msgstr "Pesan"
+
+#: includes/activity.php:38 includes/activity.php:72
+msgid "Themes"
+msgstr "Tema"
+
+#: includes/activity.php:39 includes/activity.php:48 includes/ban.php:140
+#: includes/guestbook.php:41 includes/stat.php:55 includes/stat.php:68
+msgid "Comments"
+msgstr "Komentar"
+
+#: includes/activity.php:65 includes/activity.php:100 includes/activity.php:137
+#: includes/ban.php:359
+msgid "The list is empty"
+msgstr "Daftar ini kosong"
+
+#: includes/activity.php:72 includes/activity.php:107 includes/ban.php:148
+#: includes/settings.php:46 includes/settings.php:77 includes/stat.php:53
+#: includes/stat.php:66
+msgid "Forum"
+msgstr "Forum"
+
+#: includes/activity.php:141 includes/ban.php:269 includes/ban.php:362
+msgid "Total"
+msgstr "Total"
+
+#: includes/activity.php:147 includes/ban.php:368
+msgid "To Page"
+msgstr "Ke halaman"
+
+#: includes/ban.php:38
+msgid "You do not have enought rights to ban this user"
+msgstr "Anda tidak memiliki hak untuk memblokir pengguna ini"
+
+#: includes/ban.php:40
+msgid "Ban the User"
+msgstr "Blokir Pengguna"
+
+#: includes/ban.php:52
+msgid "Reason not specified"
+msgstr "Tidak ada alasan"
+
+#: includes/ban.php:56
+msgid "There is no required data"
+msgstr "Data yang diperlukan tidak ada"
+
+#: includes/ban.php:60
+msgid "You have no rights to ban in this section"
+msgstr "Anda tidak memiliki hak untuk memblokir bagian ini"
+
+#: includes/ban.php:64
+msgid "Ban already active"
+msgstr "Blokir telah aktif"
+
+#: includes/ban.php:125
+msgid "User banned"
+msgstr "Pengguna diblokir"
+
+#: includes/ban.php:132
+msgid "Ban type"
+msgstr "Tipe Blokir"
+
+#: includes/ban.php:136
+msgid "Full block"
+msgstr "Blokir penuh"
+
+#: includes/ban.php:138
+msgid "Private messages"
+msgstr "Pesan Pribadi"
+
+#: includes/ban.php:142 includes/guestbook.php:13 includes/guestbook.php:28
+#: includes/office.php:49 includes/stat.php:54 includes/stat.php:67
+#: index.php:174
+msgid "Guestbook"
+msgstr "Buku Tamu"
+
+#: includes/ban.php:153
+msgid "Library"
+msgstr "Perpustakaan"
+
+#: includes/ban.php:156
+msgid "Ban time"
+msgstr "Lama Blokir"
+
+#: includes/ban.php:158
+msgid "Minutes (60 max.)"
+msgstr "Menit (maks. 60)"
+
+#: includes/ban.php:159
+msgid "Hours (24 max.)"
+msgstr "Jam (maks. 24)"
+
+#: includes/ban.php:162
+msgid "Days (30 max.)"
+msgstr "Hari (Maks. 30)"
+
+#: includes/ban.php:166 includes/ban.php:334
+msgid "Till cancel"
+msgstr "Sampai membatalkan"
+
+#: includes/ban.php:169
+msgid "Reason"
+msgstr "Alasan"
+
+#: includes/ban.php:174
+msgid "Violation"
+msgstr "Pelanggaran"
+
+#: includes/ban.php:179
+msgid "Apply Ban"
+msgstr "Blokir"
+
+#: includes/ban.php:189 includes/ban.php:219 includes/ban.php:227
+#: includes/ban.php:247
+msgid "Wrong data"
+msgstr "Data salah"
+
+#: includes/ban.php:198
+msgid "Ban not active"
+msgstr "Blokir tidak aktif"
+
+#: includes/ban.php:202
+msgid "Ban termination"
+msgstr "Penghentian blokir"
+
+#: includes/ban.php:207
+msgid "Ban terminated"
+msgstr "Blokir dihentikan"
+
+#: includes/ban.php:210
+msgid "Ban time is going to the end. Infrigement will be saved in the bans history"
+msgstr "Blokir akan aktif sampai berakhir dan akan dimasukkan ke riwayat pelanggaran"
+
+#: includes/ban.php:211
+msgid "Terminate Ban"
+msgstr "Hentikan blokir"
+
+#: includes/ban.php:213 includes/ban.php:244 includes/edit.php:49
+#: includes/info.php:59 includes/stat.php:88
+msgid "Back"
+msgstr "Kembali"
+
+#: includes/ban.php:233 includes/ban.php:348
+msgid "Delete Ban"
+msgstr "Hapus Blokir"
+
+#: includes/ban.php:238
+msgid "Ban deleted"
+msgstr "Blokir dihapus"
+
+#: includes/ban.php:238 includes/images.php:61 includes/images.php:112
+#: includes/password.php:79
+msgid "Continue"
+msgstr "Lanjutkan"
+
+#: includes/ban.php:241
+msgid "Removing ban along with a record in the bans history"
+msgstr "Hapus blokir dengan riwayat pemblokiran"
+
+#: includes/ban.php:242 includes/edit.php:193 includes/edit.php:208
+#: index.php:126
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/ban.php:255 includes/ban.php:271
+msgid "Violations history"
+msgstr "Riwayat Pelanggaran"
+
+#: includes/ban.php:260
+msgid "Violations history cleared"
+msgstr "Riwayat pelanggaran dihapus"
+
+#: includes/ban.php:263
+msgid "Are you sure want to clean entire history of user violations?"
+msgstr "Apakah Anda yakin ingin menghapus semua riwayat pelanggaran pengguna?"
+
+#: includes/ban.php:264
+msgid "Clear"
+msgstr "Hapus"
+
+#: includes/ban.php:273 includes/ban.php:286
+msgid "Ban Panel"
+msgstr "Panel Blokir"
+
+#: includes/ban.php:275
+msgid "Violations history can be cleared by Supervisor only"
+msgstr "Riwayat pelanggaran hanya bisa dihapus oleh Supervisor"
+
+#: includes/ban.php:281
+msgid "Violations History"
+msgstr "Riwayat pelanggaran"
+
+#: includes/ban.php:290
+msgid "Clear history"
+msgstr "Hapus riwayat"
+
+#: includes/ban.php:300
+msgid "My Violations"
+msgstr "Pelanggaran saya"
+
+#: includes/ban.php:330
+msgid "Who applied the Ban?"
+msgstr "Siapa yang memblokir?"
+
+#: includes/ban.php:333
+msgid "Time"
+msgstr "Lama"
+
+#: includes/ban.php:337
+msgid "Remains"
+msgstr "Tetap"
+
+#: includes/ban.php:344
+msgid "Cancel Ban"
+msgstr "Batalkan blokir"
+
+#: includes/edit.php:13 includes/images.php:13 includes/office.php:116
+#: includes/reset.php:24
+msgid "Edit Profile"
+msgstr "Sunting Profil"
+
+#: includes/edit.php:36 includes/images.php:29
+msgid "You cannot edit profile of higher administration"
+msgstr "Anda tidak dapat menyunting profil Pengurus yang lebih tinggi"
+
+#: includes/edit.php:49 includes/settings.php:112 includes/settings.php:188
+msgid "Default settings are set"
+msgstr "Pengaturan berhasil disetel ulang"
+
+#: includes/edit.php:54 index.php:116
+msgid "My Profile"
+msgstr "Profil Saya"
+
+#: includes/edit.php:54 includes/info.php:28 index.php:122
+msgid "Edit"
+msgstr "Sunting"
+
+#: includes/edit.php:59
+msgid "Avatar is successfully removed"
+msgstr "Avatar berhasil dihapus"
+
+#: includes/edit.php:64
+msgid "Photo is successfully removed"
+msgstr "Foto berhasil dihapus"
+
+#: includes/edit.php:94
+msgid "Min. nick length 2, max. 20 characters"
+msgstr "Panjang nama pengguna min. 2 maks. 20 karakter"
+
+#: includes/edit.php:100
+msgid "Nick contains invalid characters"
+msgstr "Nama pengguna berisi karakter tidak valid"
+
+#: includes/edit.php:105
+msgid "Invalid format date of birth"
+msgstr "Format tanggal tidak valid"
+
+#: includes/edit.php:110
+msgid "ICQ number must be at least 5 digits and max. 10"
+msgstr "Nomor ICQ harus min. 5 dan maks. 10 digit"
+
+#: includes/edit.php:166
+msgid "Data saved"
+msgstr "Data disimpan"
+
+#: includes/edit.php:178
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: includes/edit.php:181 includes/edit.php:184
+msgid "Nickname"
+msgstr "Nama pengguna"
+
+#: includes/edit.php:181
+msgid "Min.2, Max. 20"
+msgstr "Min. 2, maks. 20"
+
+#: includes/edit.php:182 includes/edit.php:185
+msgid "Status"
+msgstr "Status"
+
+#: includes/edit.php:182
+msgid "Max. 50"
+msgstr "Maks. 50"
+
+#: includes/edit.php:188
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/edit.php:196 includes/edit.php:211 includes/images.php:72
+#: includes/images.php:125
+msgid "Upload"
+msgstr "Unggah"
+
+#: includes/edit.php:199
+msgid "Select in Catalog"
+msgstr "Pilih di katalog"
+
+#: includes/edit.php:203
+msgid "Photo"
+msgstr "Foto"
+
+#: includes/edit.php:214 includes/info.php:33
+msgid "Personal info"
+msgstr "Data pribadi"
+
+#: includes/edit.php:215
+msgid "Your name"
+msgstr "Nama Anda"
+
+#: includes/edit.php:216
+msgid "Date of birth (d.m.y)"
+msgstr "Tanggal lahir (h.b.t)"
+
+#: includes/edit.php:220 includes/info.php:42
+msgid "City, Country"
+msgstr "Kota, Negara"
+
+#: includes/edit.php:221 includes/info.php:43
+msgid "About myself"
+msgstr "Tentang saya"
+
+#: includes/edit.php:222 includes/info.php:45 includes/office.php:103
+#: includes/office.php:107
+msgid "Contacts"
+msgstr "Kontak"
+
+#: includes/edit.php:223 includes/info.php:46
+msgid "Phone number"
+msgstr "Nomor telepon"
+
+#: includes/edit.php:226
+msgid "Show in Profile"
+msgstr "Tampilkan di Profil"
+
+#: includes/edit.php:227
+msgid "Warning! Write your e-mail correctly. Your password will be sent to the email address on record for this account."
+msgstr "Peringatan! Harap mengisi alamat Email Anda, hal ini berguna jika Anda lupa kata sandi."
+
+#: includes/edit.php:231 includes/info.php:57
+msgid "Site"
+msgstr "Situs"
+
+#: includes/edit.php:236
+msgid "Administrative Functions"
+msgstr "Fungsi Pengurus"
+
+#: includes/edit.php:237 includes/office.php:117 includes/password.php:32
+#: includes/password.php:89
+msgid "Change Password"
+msgstr "Ganti kata sandi"
+
+#: includes/edit.php:240
+msgid "Reset User options to default"
+msgstr "Atur ulang opsi pengguna"
+
+#: includes/edit.php:243
+msgid "Select gender"
+msgstr "Pilih jenis kelamin"
+
+#: includes/edit.php:244
+msgid "Man"
+msgstr "Pria"
+
+#: includes/edit.php:245
+msgid "Woman"
+msgstr "Wanita"
+
+#: includes/edit.php:249
+msgid "Position on the Site"
+msgstr "Posisi di Situs"
+
+#: includes/edit.php:250
+msgid "User"
+msgstr "Pengguna"
+
+#: includes/edit.php:251
+msgid "Forum Moderator"
+msgstr "Moderator Forum"
+
+#: includes/edit.php:252
+msgid "Download Moderator"
+msgstr "Moderator Unduhan"
+
+#: includes/edit.php:253
+msgid "Library Moderator"
+msgstr "Moderator Perpustakaan"
+
+#: includes/edit.php:254
+msgid "Super Modererator"
+msgstr "Moderator Super"
+
+#: includes/edit.php:257
+msgid "Administrator"
+msgstr "Pengurus"
+
+#: includes/edit.php:258
+msgid "Supervisor"
+msgstr "Supervisor"
+
+#: includes/edit.php:265 includes/password.php:99 includes/settings.php:71
+#: includes/settings.php:124 includes/settings.php:222
+msgid "Save"
+msgstr "Simpan"
+
+#: includes/images.php:40
+msgid "Upload Avatar"
+msgstr "Unggah Avatar"
+
+#: includes/images.php:60
+msgid "The avatar is successfully uploaded"
+msgstr "Avatar berhasil diunggah"
+
+#: includes/images.php:69
+msgid "Select Image"
+msgstr "Pilih gambar"
+
+#: includes/images.php:75 includes/images.php:127
+#, php-format
+msgid "Allowed image formats: JPG, PNG, GIF. File size should not exceed %d kb.<br>The new image will replace old (if was)."
+msgstr "Dizikan format gambar: JPG, PNG, GIF. Maksimal ukuran berkas %d kb.<br> Gambar baru akan menggantikan yang lama (jika ada)."
+
+#: includes/images.php:81
+msgid "Upload Photo"
+msgstr "Unggah Foto"
+
+#: includes/images.php:112
+msgid "The photo is successfully uploaded"
+msgstr "Foto berhasil diunggah"
+
+#: includes/images.php:122
+msgid "Select image"
+msgstr "Pilih Gambar"
+
+#: includes/info.php:23 includes/info.php:25 index.php:163
+msgid "Information"
+msgstr "Informasi"
+
+#: includes/info.php:40
+msgid "Name"
+msgstr "Nama"
+
+#: includes/info.php:41 index.php:139
+msgid "Birthday"
+msgstr "Ulang Tahun"
+
+#: includes/info.php:50
+msgid "hidden"
+msgstr "tersembunyi"
+
+#: includes/office.php:13
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: includes/office.php:33 includes/password.php:27 includes/settings.php:39
+msgid "Access forbidden"
+msgstr "Akses ditolak"
+
+#: includes/office.php:45
+msgid "My Pages"
+msgstr "Halaman Saya"
+
+#: includes/office.php:47
+msgid "Statistics"
+msgstr "Statistik"
+
+#: includes/office.php:48 index.php:173
+msgid "Photo Album"
+msgstr "Album Foto"
+
+#: includes/office.php:53
+msgid "Admin-Club"
+msgstr "Klub Pengurus"
+
+#: includes/office.php:58
+msgid "My Mailbox"
+msgstr "Pesan Saya"
+
+#: includes/office.php:78
+msgid "Received"
+msgstr "Diterima"
+
+#: includes/office.php:87
+msgid "Sent"
+msgstr "Terkirim"
+
+#: includes/office.php:92
+msgid "System"
+msgstr "Sistem"
+
+#: includes/office.php:96
+msgid "Files"
+msgstr "Berkas"
+
+#: includes/office.php:99 index.php:200
+msgid "Write"
+msgstr "Tulis"
+
+#: includes/office.php:111
+msgid "Blocked"
+msgstr "Diblokir"
+
+#: includes/office.php:115 includes/settings.php:13 includes/settings.php:53
+#: includes/settings.php:77 includes/settings.php:129
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: includes/office.php:118
+msgid "System Settings"
+msgstr "Pengaturan Sistem"
+
+#: includes/office.php:121
+msgid "Admin Panel"
+msgstr "Panel Pengurus"
+
+#: includes/office.php:126
+msgid "Exit"
+msgstr "Keluar"
+
+#: includes/password.php:46 includes/password.php:50
+msgid "It is necessary to fill in all fields"
+msgstr "Anda harus mengisi semua kolom"
+
+#: includes/password.php:55
+msgid "Old password entered incorrectly"
+msgstr "Kata sandi lama salah"
+
+#: includes/password.php:59
+msgid "The password confirmation you entered is wrong"
+msgstr "Konfirmasi kata sandi salah"
+
+#: includes/password.php:63
+msgid "The password must contain at least 3 characters"
+msgstr "Kata sandi harus berisi minimal 3 karakter"
+
+#: includes/password.php:78
+msgid "Password successfully changed"
+msgstr "Kata sandi berhasil diganti"
+
+#: includes/password.php:83
+msgid "Repeat"
+msgstr "Ulangi"
+
+#: includes/password.php:93
+msgid "Enter old password"
+msgstr "Kata sandi lama"
+
+#: includes/password.php:96
+msgid "Enter new password"
+msgstr "Kata sandi baru"
+
+#: includes/password.php:97
+msgid "Repeat password"
+msgstr "Konfirmasi kata sandi"
+
+#: includes/reset.php:29
+#, php-format
+msgid "For user %s default settings were set."
+msgstr "Untuk pengguna %s pengaturan berhasil diatur ulang."
+
+#: includes/settings.php:45 includes/settings.php:129
+msgid "General setting"
+msgstr "Pengaturan Umum"
+
+#: includes/settings.php:47 includes/settings.php:53
+msgid "Mail"
+msgstr "Pesan"
+
+#: includes/settings.php:68
+msgid "Who can write you?"
+msgstr "Siapa yang bisa mengirimi anda pesan?"
+
+#: includes/settings.php:69
+msgid "All can write"
+msgstr "Semua dapat menulis"
+
+#: includes/settings.php:70
+msgid "Only my contacts"
+msgstr "Hanya kontak saya"
+
+#: includes/settings.php:97 includes/settings.php:183
+msgid "Settings saved successfully"
+msgstr "Pengaturan berhasil disimpan"
+
+#: includes/settings.php:116
+msgid "Basic settings"
+msgstr "Pengaturan dasar"
+
+#: includes/settings.php:117
+msgid "Inverse sorting"
+msgstr "Penyortiran invers"
+
+#: includes/settings.php:118
+msgid "Use the form of a quick answer"
+msgstr "Menggunakan form untuk jawaban cepat"
+
+#: includes/settings.php:119
+msgid "Preview of messages"
+msgstr "Pertinjau pesan"
+
+#: includes/settings.php:120
+msgid "Attach first post"
+msgstr "Melampirkan posting pertama"
+
+#: includes/settings.php:121
+msgid "Always"
+msgstr "Selalu"
+
+#: includes/settings.php:122
+msgid "In unread topics"
+msgstr "Dalam topik-topik yang belum dibaca"
+
+#: includes/settings.php:123
+msgid "Never"
+msgstr "Tidak pernah"
+
+#: includes/settings.php:125
+msgid "Reset settings"
+msgstr "Mengatur ulang pengaturan"
+
+#: includes/settings.php:193
+msgid "Time settings"
+msgstr "Pengaturan waktu"
+
+#: includes/settings.php:194
+msgid "Shift of time"
+msgstr "Pergeseran waktu"
+
+#: includes/settings.php:196
+msgid "System time"
+msgstr "Waktu sistem"
+
+#: includes/settings.php:197
+msgid "System Functions"
+msgstr "Fungsi sistem"
+
+#: includes/settings.php:198
+msgid "Direct URL"
+msgstr "URL langsung"
+
+#: includes/settings.php:199
+msgid "Youtube Player"
+msgstr "Pemutar YouTube"
+
+#: includes/settings.php:200
+msgid "Text entering"
+msgstr "Menulis teks"
+
+#: includes/settings.php:201
+msgid "Height of field"
+msgstr "Tinggi kolom"
+
+#: includes/settings.php:203
+msgid "Appearance"
+msgstr "Tampilan"
+
+#: includes/settings.php:204
+msgid "Size of Lists"
+msgstr "Ukuran daftar"
+
+#: includes/settings.php:209
+msgid "Select Language"
+msgstr "Pilih bahasa"
+
+#: includes/settings.php:215
+msgid "Site Default"
+msgstr "Situs default"
+
+#: includes/settings.php:223
+msgid "Reset Settings"
+msgstr "Atur ulang pengaturan"
+
+#: includes/stat.php:26 includes/stat.php:28 includes/stat.php:31 index.php:165
+msgid "Statistic"
+msgstr "Statistik"
+
+#: includes/stat.php:35 index.php:157
+msgid "Pending confirmation"
+msgstr "Konfirmasi tertunda"
+
+#: includes/stat.php:37
+msgid "Registration confirmed"
+msgstr "Registrasi dikonfirmasi"
+
+#: includes/stat.php:39
+msgid "Free registration"
+msgstr "Pendaftaran tanpa konfirmasi"
+
+#: includes/stat.php:43
+msgid "Registered"
+msgstr "Terdaftar"
+
+#: includes/stat.php:44
+msgid "He stay on the site"
+msgstr "Tinggal di situs"
+
+#: includes/stat.php:44
+msgid "She stay on the site"
+msgstr "Tinggal di situs"
+
+#: includes/stat.php:48
+msgid "Last visit"
+msgstr "Kunjungan terakhir"
+
+#: includes/stat.php:57
+msgid "Achievements"
+msgstr "Penghargaan"
+
+#: index.php:42
+msgid "For registered users only"
+msgstr "Hanya untuk pengguna terdaftar"
+
+#: index.php:52
+msgid "This User does not exists"
+msgstr "Pengguna ini tidak ada"
+
+#: index.php:116
+msgid "User Profile"
+msgstr "Profil pengguna"
+
+#: index.php:130
+msgid "Ban"
+msgstr "Blokir"
+
+#: index.php:150
+msgid "Where?"
+msgstr "Dimana?"
+
+#: index.php:169
+msgid "Violations"
+msgstr "Pelanggaran"
+
+#: index.php:181
+msgid "Add to Contacts"
+msgstr "Tambahkan kontak"
+
+#: index.php:183
+msgid "Remove from Contacts"
+msgstr "Hapus kontak"
+
+#: index.php:188
+msgid "Block User"
+msgstr "Blokir pengguna"
+
+#: index.php:190
+msgid "Unlock User"
+msgstr "Buka pengguna"
+
