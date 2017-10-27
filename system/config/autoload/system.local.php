@@ -15,9 +15,9 @@ return array (
     'clean_time' => 0,
     'copyright' => 'Powered by mobiCMS',
     'email' => '@',
-    'flsz' => '16000',
-    'gzip' => 1,
-    'homeurl' => 'http://127.0.0.1',
+    'flsz' => 16000,
+    'gzip' => true,
+    'homeurl' => 'http://127.0.0.1/NewCMS',
     'base_path' => '',
     'lng' => 'en',
     'lng_list' => 
